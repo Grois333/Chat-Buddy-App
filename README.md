@@ -1,13 +1,13 @@
 # Chat Buddy App
 
-"Description"
+"Chat Buddy is your go-to mobile app for effortless and secure chatting. Whether you're chatting one-on-one or in a group, our user-friendly platform ensures seamless interactions with friends, family, or new connections. Join Chat Buddy now for vibrant conversations anytime, anywhere."
 
 ### Link to App: 
 
 
 ### Icon:
 
-![Icon]()
+![Icon](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/ic_launcher-660012354e8d7/android/ic_launcher-web.png)
 
 
 ### Featured Graphic:
