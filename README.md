@@ -12,46 +12,46 @@
 
 ### Featured Graphic:
 
-![Featured Graphic]()
+![Featured Graphic](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/featured%20graphic.png)
 
 
 ### Login:
 
-![Login]()
+![Login](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/login.png)
 
 
 ### Register:
 
-![Register]()
+![Register](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/register.png)
 
 
 
 ### Forgot Password:
 
-![Forgot Password]()
+![Forgot Password](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/forgot.png)
 
 
 
 ### Chats:
 
-![Expenses]()
+![chats](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/chat%20list.png)
 
 
 ### Group Chat:
 
-![Add Expense]()
+![Group Chat](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/group%20chat.png)
 
 
 
 ### Single Chat:
 
-![Validation]()
+![Single Chat](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/single%20chat.png)
 
 
 
 ### Horizontal:
 
-![Horizontal]()
+![Horizontal](https://raw.githubusercontent.com/Grois333/Chat-Buddy-App/master/image-assets/screenshots/horizontal.png)
 
 
 
