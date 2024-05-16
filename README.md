@@ -2,7 +2,7 @@
 
 "Chat Buddy is your go-to mobile app for effortless and secure chatting. Whether you're chatting one-on-one or in a group, our user-friendly platform ensures seamless interactions with friends, family, or new connections. Join Chat Buddy now for vibrant conversations anytime, anywhere."
 
-### Link to App: 
+### Link to App: https://play.google.com/store/apps/details?id=com.groisman.chat_buddy
 
 
 ### Icon:
