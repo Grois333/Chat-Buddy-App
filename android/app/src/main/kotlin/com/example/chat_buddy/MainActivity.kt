@@ -1,4 +1,4 @@
-package com.example.chat_buddy
+package com.groisman.chat_buddy
 
 import io.flutter.embedding.android.FlutterActivity
 
